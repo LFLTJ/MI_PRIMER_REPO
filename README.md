@@ -28,11 +28,10 @@ SE COMPARTE [link](https://www.youtube.com/feed/subscriptions)
 ## Como importar imagen
 primer trabajo de investigacion
 
-![imagen de baner](./picture\finanzas.png)
-
-
 ingresar datos
 
 cambiar datos
+
+ELIMINAR
 
 ![IMAGEN](./picture/finanzas.png)
