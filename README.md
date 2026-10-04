@@ -31,3 +31,4 @@ primer trabajo de investigacion
 ![imagen de baner](./picture\finanzas.png)
 
 
+ingresar datos
