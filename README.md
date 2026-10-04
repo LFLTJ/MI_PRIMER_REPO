@@ -34,3 +34,5 @@ primer trabajo de investigacion
 ingresar datos
 
 cambiar datos
+
+![IMAGEN](./picture/finanzas.png)
