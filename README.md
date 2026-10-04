@@ -32,3 +32,5 @@ primer trabajo de investigacion
 
 
 ingresar datos
+
+cambiar datos
